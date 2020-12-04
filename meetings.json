@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "5fc73e7131e6a20f6c492178"
+  },
+  "participants": [
+    {
+      "$oid": "5fc74bc5e7c54d0ea8f133ca"
+    },
+    {
+      "$oid": "5fc74e1254b8d337b4ae36d2"
+    },
+    {
+      "$oid": "5fc74e1954b8d337b4ae36d3"
+    }
+  ],
+  "title": "Meeting at 6PM",
+  "startTime": {
+    "$date": "2020-11-01T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-11-03T18:30:00Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-02T07:12:49.303Z"
+  },
+  "updatedAt": {
+    "$date": "1970-01-19T14:21:37.265Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc73f1cdfc45d3ca0c84654"
+  },
+  "participants": [
+    {
+      "$oid": "5fc74bc5e7c54d0ea8f133ca"
+    }
+  ],
+  "title": "Meeting at 12PM",
+  "startTime": {
+    "$date": "2020-11-01T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-11-03T18:30:00Z"
+  },
+  "createdAt": {
+    "$date": "1970-01-19T14:21:33.340Z"
+  },
+  "updatedAt": {
+    "$date": "1970-01-19T14:22:55.386Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9f032b2c7222c3cabdc0b"
+  },
+  "participants": [],
+  "title": "Meeting at Babu",
+  "startTime": {
+    "$date": "2020-12-01T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-03T18:30:00Z"
+  },
+  "createdAt": {
+    "$date": "1970-01-19T14:24:29.746Z"
+  },
+  "updatedAt": {
+    "$date": "1970-01-19T14:24:29.746Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9f095d841090fb89ff9a2"
+  },
+  "participants": [],
+  "title": "Meeting at Babu 2.0",
+  "startTime": {
+    "$date": "2020-12-04T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-05T18:30:00Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-04T08:17:25.946Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T08:17:25.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9f63a172af231f807639e"
+  },
+  "participants": [],
+  "title": "Meeting at Babu 2.0",
+  "startTime": {
+    "$date": "2020-12-03T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-03T18:30:01Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-04T08:41:30.920Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T08:41:30.920Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9f64d172af231f807639f"
+  },
+  "participants": [],
+  "title": "Meeting at Babu 3",
+  "startTime": {
+    "$date": "2020-12-03T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-03T18:30:01Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-04T08:41:49.390Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T08:41:49.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9f661172af231f80763a0"
+  },
+  "participants": [],
+  "title": "Meeting at Babu 3",
+  "startTime": {
+    "$date": "2020-12-03T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-03T18:35:01Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-04T08:42:09.189Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T08:42:09.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9f6f9172af231f80763a1"
+  },
+  "participants": [],
+  "title": "Meeting at Babu 3",
+  "startTime": {
+    "$date": "2020-12-03T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-03T18:35:01Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-04T08:44:41.379Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T08:44:41.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fca04e0ed3a8548b019ec5c"
+  },
+  "participants": [
+    {
+      "$oid": "5fc74e1254b8d337b4ae36d2"
+    }
+  ],
+  "title": "Meeting at Babu 3",
+  "startTime": {
+    "$date": "2020-12-03T18:30:00Z"
+  },
+  "endTime": {
+    "$date": "2020-12-03T18:35:01Z"
+  },
+  "createdAt": {
+    "$date": "2020-12-04T09:44:00.396Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T09:44:00.396Z"
+  },
+  "__v": 0
+}]

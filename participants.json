@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5fc74bc5e7c54d0ea8f133ca"
+  },
+  "rsvp": "Yes",
+  "name": "Ameet Pradhan",
+  "email": "jimmy@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc74e1254b8d337b4ae36d2"
+  },
+  "rsvp": "Not Answered",
+  "name": "Ameet",
+  "email": "jimmy.4244@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc74e1954b8d337b4ae36d3"
+  },
+  "rsvp": "Not Answered",
+  "name": "Ameet",
+  "email": "jimmy.@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc74e2054b8d337b4ae36d4"
+  },
+  "rsvp": "Not Answered",
+  "name": "Ameet",
+  "email": "jimmy.42@gmail.com",
+  "__v": 0
+}]
